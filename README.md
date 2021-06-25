@@ -1,4 +1,4 @@
-"# UI_google-search - Google Clone UI"
+# UI_google-search - Google Clone UI
 
 Demo: https://phamtanminhtien.github.io/UI_google-search/
 
