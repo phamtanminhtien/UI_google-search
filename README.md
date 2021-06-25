@@ -1,6 +1,8 @@
 "# UI_google-search - Google Clone UI"
 
-Demo: https://github.com/phamtanminhtien/UI_google-search
+Demo: https://phamtanminhtien.github.io/UI_google-search/
+
+![image](./screenshot.png)
 
 ---
 
